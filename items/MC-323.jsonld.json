@@ -43,7 +43,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/UND/1.0/"
   },
-  "schema:name": "Diary of a Young Woman Teacher in Stockton",
+  "schema:name": "Stockton Woman's Diary",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
